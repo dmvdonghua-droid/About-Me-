@@ -1,4 +1,4 @@
-# About-Me-
+# About-Me
 # Hi there, I'm Ming Zhiyuan (明志远）!
 I'm a university student majoring in IT. 
 I'm passionate about web development, cyber security, and writing codes.
