@@ -1,20 +1,14 @@
-# Number Guessing Game 🎮
-
-A simple, interactive console-based Java application where players try to guess a randomly generated number within a specified range.
-
-## 🚀 Features
-
-- **Random Number Generation:** Generates a new target number for every game session.
-- **Interactive Feedback:** Gives real-time "too high" or "too low" hints to guide the player.
-- **Attempt Tracker:** Counts and displays the total number of attempts taken to guess correctly.
-
-## 🛠️ Prerequisites
-
-- **Java Development Kit (JDK):** Version 8 or higher installed on your computer.
-
-## 💻 How to Run
-
-1. **Clone or Download** this repository.
-2. Open your terminal or command prompt and navigate to the project directory:
-   ```bash
-   cd path/to/number-guessing-game
+# ABOUT ME: 🎮
+Hi there, I'm Ming Zhiyuan (明志远）!
+# Hi there, I'm Ming Zhiyuan (明志远）!
+I'm a university student majoring in IT. 
+I'm passionate about web development, cyber security, and writing codes.
+### What I'm Working On
+- 🌐 Building front-end, back-end web applications using HTML, CSS, and JavaScript.
+- 📚 Developing personal creative projects and interactive platforms.
+- Learning about Java, Python,etc.
+### 🛠️ Tech & Tools
+- **Languages:** Java, HTML, CSS, Python
+- **Tools:** GitHub, VS Code, IntelliJ.
+### How to Reach Me
+- **Email:** dmvdonghua@gmail.com
