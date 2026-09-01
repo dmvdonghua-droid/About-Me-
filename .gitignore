@@ -1,0 +1,7 @@
+*.class
+*.bluej
+*.ctxt
+.settings/
+.bin/
+.classpath
+.project
